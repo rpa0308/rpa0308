@@ -25,4 +25,4 @@
 
 ## 🤳 Connect with me:
 
-[linkedin]: https://linkedin.com/in/wei-ling-liao
+[linkedin]( https://linkedin.com/in/wei-ling-liao)
