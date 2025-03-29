@@ -10,6 +10,8 @@
 
   - [Database Implementation in a Restaurant (MS SQL)](https://github.com/rpa0308/SQLProject-RestaurantGenuss)
 
+<h2> Data Analysis Projects with Python </h2>
+
 <h2>📊 Visualisation Projects </h2>
 
 
