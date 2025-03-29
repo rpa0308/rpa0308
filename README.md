@@ -15,10 +15,6 @@
   - [Mean, Variance, Standard Deviation Calculator (freeCodeCamp)](https://github.com/rpa0308/Mean-Var-Std-Calculator)
 
 
-## 📊 Visualisation Projects:
-
-
-
 ## 💡 More about me:
 
 - 🔭 I’m currently working on expanding my expertise in NLP, database management and data analysis.
