@@ -8,7 +8,7 @@
 
 <h2>⏳ SQL / ETL Process Projects</h2>
 
-  - [Database Implementation in a Restaurant (MS SQL)]()
+  - [Database Implementation in a Restaurant (MS SQL)](https://github.com/rpa0308/SQLProject-RestaurantGenuss)
 
 <h2>📊 Visualisation Projects </h2>
 
