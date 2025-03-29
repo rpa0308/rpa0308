@@ -19,7 +19,7 @@
 <h2>💡 More about me: </h2>
 
 - 🔭 I’m currently working on expanding my expertise in NLP, database management and data analysis.
-- 🌱 I’m honing my skills in NLP, Tableau and SQL, turning raw data into compelling insights and well-structured databases.
+- 🌱 I’m honing my skills in Python, Tableau and SQL, turning raw data into compelling insights and well-structured databases.
 - 👯 I’m looking to collaborate on data analysis, NLP projects, or master data management!
 - 💬 Ask me about languages, data, and baking...!
 
