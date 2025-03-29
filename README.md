@@ -16,7 +16,7 @@
 
 <h2>💡 More about me: </h2>
 
-- 🔭 I’m currently working on expanding my expertise in database management and data analysis.
+- 🔭 I’m currently working on expanding my expertise in NLP, database management and data analysis.
 - 🌱 I’m currently mastering Tableau and MySQL, turning raw data into compelling insights and well-structured databases.
 - 👯 I’m looking to collaborate on data analysis, NLP projects, and master data management!
 - 💬 Ask me about languages, data, and baking...!
