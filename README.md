@@ -1,25 +1,25 @@
-<h1>Hi, I'm Wei-Ling! </h1>
+# Hi, I'm Wei-Ling!
 
-<h2>👩🏻‍💻 NLP Projects:</h2>
+## 👩🏻‍💻 NLP Projects:
 
   - [Metaphor Inference with BERT LLM](https://github.com/rpa0308/MetaphorInference-with-BERT)
   - [Corpus Linguistics: Positive Pointwise Mutual Information (PPMI)](https://github.com/rpa0308/CorpusLinguisticsWithPython-PPLM)
   - [Clickbait Phenomenon in US-Youtube Videos](https://github.com/rpa0308/ClickbaitPhenomenon_US-YoutubeVideos)
 
-<h2>⏳ SQL / ETL Process Projects</h2>
+## ⏳ SQL / ETL Process Projects:
 
   - [Database Implementation in a Restaurant (MS SQL)](https://github.com/rpa0308/SQLProject-RestaurantGenuss)
 
-## 🔍 Data Analysis Projects with Python 
+## 🔍 Data Analysis Projects with Python:
   - [Demographic Data Analyzer (freeCodeCamp)](https://github.com/rpa0308/demographic-data-analyzer)
   - [Mean, Variance, Standard Deviation Calculator (freeCodeCamp)](https://github.com/rpa0308/Mean-Var-Std-Calculator)
 
 
-<h2>📊 Visualisation Projects </h2>
+## 📊 Visualisation Projects:
 
 
 
-<h2>💡 More about me: </h2>
+## 💡 More about me:
 
 - 🔭 I’m currently working on expanding my expertise in NLP, database management and data analysis.
 - 🌱 I’m honing my skills in Python, Tableau and SQL, turning raw data into compelling insights and well-structured databases.
@@ -27,7 +27,7 @@
 - 💬 Ask me about languages, data, and baking...!
 
 
-<h2> 🤳 Connect with me:</h2>
+## 🤳 Connect with me:
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
