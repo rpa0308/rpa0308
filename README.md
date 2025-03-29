@@ -11,6 +11,8 @@
   - [Database Implementation in a Restaurant (MS SQL)](https://github.com/rpa0308/SQLProject-RestaurantGenuss)
 
 <h2>🔍 Data Analysis Projects with Python </h2>
+- [Demographic Data Analyzer (freeCodeCamp)](https://github.com/rpa0308/demographic-data-analyzer)
+- [Mean, Variance, Standard Deviation Calculator (freeCodeCamp)](https://github.com/rpa0308/Mean-Var-Std-Calculator)
 
 <h2>📊 Visualisation Projects </h2>
 
