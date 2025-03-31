@@ -13,7 +13,7 @@
 ## 🔍 Data Analysis Projects with Python:
   - [Demographic Data Analyzer (freeCodeCamp)](https://github.com/rpa0308/demographic-data-analyzer)
   - [Mean, Variance, Standard Deviation Calculator (freeCodeCamp)](https://github.com/rpa0308/Mean-Var-Std-Calculator)
-  - [Medical Data Visualizer (freeCodeCamp)]()
+  - [Medical Data Visualizer (freeCodeCamp)](https://github.com/rpa0308/Medical-Data-Visualizer)
 
 
 ## 💡 More about me:
